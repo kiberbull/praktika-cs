@@ -17,7 +17,7 @@ namespace praktika01zadanie1
     }
     public override string ToString()
     {
-      return firstName + " " + lastName + " (" + gender + "),  age " + age;
+      return firstName + " " + lastName + " (" + gender + "), age " + age;
     }
   }
 
